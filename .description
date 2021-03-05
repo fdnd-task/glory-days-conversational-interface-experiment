@@ -1,6 +1,6 @@
 ---
 title: "Conversational interface"          # Same as repo name but with spaces and caps
-client: "Glory Days           # Name of the client for this task
+client: "Glory Days"           # Name of the client for this task
 description: "short description"    # Max. 280 characters in description
 semester: 3                       # Please choose only one semester
 sprint: 17                        # Please choose only one sprint
